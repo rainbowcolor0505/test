@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>私の最初の Web サイト</title>
+</head>
+<body>
+  <h1>ようこそ！</h1>
+  <p>プログラミングを始めてみました。</p>
+  <p>これは、私が自作した最初の Web ページです。</p>
+</body>
+</html>
